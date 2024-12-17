@@ -1,0 +1,427 @@
+@font-face {
+  font-family: 'saylo';
+  src:  url('../fonts/saylo.eot?7ah111');
+  src:  url('../fonts/saylo.eot?7ah111#iefix') format('embedded-opentype'),
+    url('../fonts/saylo.ttf?7ah111') format('truetype'),
+    url('../fonts/saylo.woff?7ah111') format('woff'),
+    url('../fonts/saylo.svg?7ah111#saylo') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-saylo-"], [class*=" icon-saylo-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'saylo' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-saylo-spotify1:before {
+  content: "\e95c";
+}
+.icon-saylo-skype:before {
+  content: "\e95d";
+}
+.icon-saylo-brand:before {
+  content: "\e95d";
+}
+.icon-saylo-social:before {
+  content: "\e95d";
+}
+.icon-saylo-instagram:before {
+  content: "\e95e";
+}
+.icon-saylo-google-plus:before {
+  content: "\e95f";
+}
+.icon-saylo-brand1:before {
+  content: "\e95f";
+}
+.icon-saylo-social1:before {
+  content: "\e95f";
+}
+.icon-saylo-pinterest:before {
+  content: "\e960";
+}
+.icon-saylo-brand2:before {
+  content: "\e960";
+}
+.icon-saylo-social2:before {
+  content: "\e960";
+}
+.icon-saylo-vimeo:before {
+  content: "\e961";
+}
+.icon-saylo-brand3:before {
+  content: "\e961";
+}
+.icon-saylo-social3:before {
+  content: "\e961";
+}
+.icon-saylo-behance:before {
+  content: "\e962";
+}
+.icon-saylo-brand4:before {
+  content: "\e962";
+}
+.icon-saylo-social4:before {
+  content: "\e962";
+}
+.icon-saylo-spotify:before {
+  content: "\e963";
+}
+.icon-saylo-brand5:before {
+  content: "\e963";
+}
+.icon-saylo-social5:before {
+  content: "\e963";
+}
+.icon-saylo-stackoverflow:before {
+  content: "\e964";
+}
+.icon-saylo-brand6:before {
+  content: "\e964";
+}
+.icon-saylo-social6:before {
+  content: "\e964";
+}
+.icon-saylo-steam:before {
+  content: "\e965";
+}
+.icon-saylo-brand7:before {
+  content: "\e965";
+}
+.icon-saylo-social7:before {
+  content: "\e965";
+}
+.icon-saylo-dribbble:before {
+  content: "\e966";
+}
+.icon-saylo-brand8:before {
+  content: "\e966";
+}
+.icon-saylo-social8:before {
+  content: "\e966";
+}
+.icon-saylo-x:before {
+  content: "\e967";
+}
+.icon-saylo-twitter:before {
+  content: "\e967";
+}
+.icon-saylo-slack:before {
+  content: "\e968";
+  color: #4a154b;
+}
+.icon-saylo-adaptability:before {
+  content: "\e900";
+}
+.icon-saylo-agency:before {
+  content: "\e901";
+}
+.icon-saylo-analysis:before {
+  content: "\e902";
+}
+.icon-saylo-angles-right:before {
+  content: "\e903";
+}
+.icon-saylo-approach:before {
+  content: "\e904";
+}
+.icon-saylo-arrow-3:before {
+  content: "\e905";
+}
+.icon-saylo-arrow-left1:before {
+  content: "\e906";
+}
+.icon-saylo-arrow-right:before {
+  content: "\e907";
+}
+.icon-saylo-arrow-right1:before {
+  content: "\e908";
+}
+.icon-saylo-art:before {
+  content: "\e909";
+}
+.icon-saylo-awards:before {
+  content: "\e90a";
+}
+.icon-saylo-bank:before {
+  content: "\e90b";
+}
+.icon-saylo-bolt:before {
+  content: "\e90c";
+}
+.icon-saylo-brand9:before {
+  content: "\e90d";
+}
+.icon-saylo-budget:before {
+  content: "\e90e";
+}
+.icon-saylo-calendar-days:before {
+  content: "\e90f";
+}
+.icon-saylo-calendar-days1:before {
+  content: "\e910";
+}
+.icon-saylo-check:before {
+  content: "\e911";
+}
+.icon-saylo-check2:before {
+  content: "\e912";
+}
+.icon-saylo-check3:before {
+  content: "\e913";
+}
+.icon-saylo-check4:before {
+  content: "\e914";
+}
+.icon-saylo-chevron-down:before {
+  content: "\e915";
+}
+.icon-saylo-chevron-right:before {
+  content: "\e916";
+}
+.icon-saylo-clock:before {
+  content: "\e917";
+}
+.icon-saylo-comments:before {
+  content: "\e918";
+}
+.icon-saylo-company:before {
+  content: "\e919";
+}
+.icon-saylo-computer:before {
+  content: "\e91a";
+}
+.icon-saylo-consluting:before {
+  content: "\e91b";
+}
+.icon-saylo-curve:before {
+  content: "\e91c";
+}
+.icon-saylo-developent:before {
+  content: "\e91d";
+}
+.icon-saylo-development:before {
+  content: "\e91e";
+}
+.icon-saylo-digital:before {
+  content: "\e91f";
+}
+.icon-saylo-discovery:before {
+  content: "\e920";
+}
+.icon-saylo-doc:before {
+  content: "\e921";
+}
+.icon-saylo-efforts:before {
+  content: "\e922";
+}
+.icon-saylo-envelope-open:before {
+  content: "\e923";
+}
+.icon-saylo-ethical:before {
+  content: "\e924";
+}
+.icon-saylo-experience:before {
+  content: "\e925";
+}
+.icon-saylo-facebook:before {
+  content: "\e926";
+}
+.icon-saylo-file-pdf:before {
+  content: "\e927";
+}
+.icon-saylo-financial:before {
+  content: "\e928";
+}
+.icon-saylo-grapy:before {
+  content: "\e929";
+}
+.icon-saylo-guidance:before {
+  content: "\e92a";
+}
+.icon-saylo-hours:before {
+  content: "\e92b";
+}
+.icon-saylo-human:before {
+  content: "\e92c";
+}
+.icon-saylo-implementation:before {
+  content: "\e92d";
+}
+.icon-saylo-integrity:before {
+  content: "\e92e";
+}
+.icon-saylo-linkedin:before {
+  content: "\e92f";
+}
+.icon-saylo-mail:before {
+  content: "\e930";
+}
+.icon-saylo-mail2:before {
+  content: "\e931";
+}
+.icon-saylo-maket:before {
+  content: "\e932";
+}
+.icon-saylo-maketing:before {
+  content: "\e933";
+}
+.icon-saylo-maketing1:before {
+  content: "\e934";
+}
+.icon-saylo-manage:before {
+  content: "\e935";
+}
+.icon-saylo-management:before {
+  content: "\e936";
+}
+.icon-saylo-map:before {
+  content: "\e937";
+}
+.icon-saylo-medical:before {
+  content: "\e938";
+}
+.icon-saylo-mission:before {
+  content: "\e939";
+}
+.icon-saylo-monitoring:before {
+  content: "\e93a";
+}
+.icon-saylo-moti:before {
+  content: "\e93b";
+}
+.icon-saylo-number:before {
+  content: "\e93c";
+}
+.icon-saylo-optimization:before {
+  content: "\e93d";
+}
+.icon-saylo-phone:before {
+  content: "\e93e";
+}
+.icon-saylo-planning:before {
+  content: "\e93f";
+}
+.icon-saylo-play:before {
+  content: "\e940";
+}
+.icon-saylo-plus:before {
+  content: "\e941";
+}
+.icon-saylo-potential:before {
+  content: "\e942";
+}
+.icon-saylo-quote1:before {
+  content: "\e943";
+}
+.icon-saylo-quote-left-saying-speech:before {
+  content: "\e944";
+}
+.icon-saylo-reduce:before {
+  content: "\e945";
+}
+.icon-saylo-reporting:before {
+  content: "\e946";
+}
+.icon-saylo-sale:before {
+  content: "\e947";
+}
+.icon-saylo-search:before {
+  content: "\e948";
+}
+.icon-saylo-seo:before {
+  content: "\e949";
+}
+.icon-saylo-service:before {
+  content: "\e94a";
+}
+.icon-saylo-solutions:before {
+  content: "\e94b";
+}
+.icon-saylo-star:before {
+  content: "\e94c";
+}
+.icon-saylo-star-of-life:before {
+  content: "\e94d";
+}
+.icon-saylo-startup:before {
+  content: "\e94e";
+}
+.icon-saylo-stategy:before {
+  content: "\e94f";
+}
+.icon-saylo-stratefy:before {
+  content: "\e950";
+}
+.icon-saylo-strategies:before {
+  content: "\e951";
+}
+.icon-saylo-teamwork:before {
+  content: "\e952";
+}
+.icon-saylo-technology:before {
+  content: "\e953";
+}
+.icon-saylo-tracking:before {
+  content: "\e954";
+}
+.icon-saylo-twitter1:before {
+  content: "\e955";
+}
+.icon-saylo-unicon:before {
+  content: "\e956";
+}
+.icon-saylo-up:before {
+  content: "\e957";
+}
+.icon-saylo-user:before {
+  content: "\e958";
+}
+.icon-saylo-ux:before {
+  content: "\e959";
+}
+.icon-saylo-vision:before {
+  content: "\e95a";
+}
+.icon-saylo-youtube:before {
+  content: "\e95b";
+}
+.icon-saylo-chevron-right1:before {
+  content: "\e96f";
+}
+.icon-saylo-chevron-left:before {
+  content: "\e970";
+}
+.icon-saylo-bitcoin:before {
+  content: "\e969";
+}
+.icon-saylo-btc:before {
+  content: "\e969";
+}
+.icon-saylo-digg:before {
+  content: "\e96a";
+}
+.icon-saylo-thumb-tack:before {
+  content: "\e96b";
+}
+.icon-saylo-toggle-on:before {
+  content: "\e96c";
+}
+.icon-saylo-toggle-off:before {
+  content: "\e96d";
+}
+.icon-saylo-check_circle:before {
+  content: "\e96e";
+}
